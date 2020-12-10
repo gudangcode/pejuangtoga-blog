@@ -15,9 +15,9 @@ image: https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6Gjaj
 thumbnail: https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png
 ---
 
-Halo kembali lagi bersama [Pejuang Toga](https://www.pejuangtoga.id/). Sudah seminggu kita tak jumpa, pada kesempatan ini kami akan membagikan informasi yang unik yakni mengenai profesi-profesi idaman di mata calon mertua. Tentunya informasi ini adalah versi dari Pejuang Toga, apabila tidak berkenan jangan diributkan.
 
-<img href="https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png" alt="teks alt gambar"/>
+
+Halo kembali lagi bersama [Pejuang Toga](https://www.pejuangtoga.id/). Sudah seminggu kita tak jumpa, pada kesempatan ini kami akan membagikan informasi yang unik yakni mengenai profesi-profesi idaman di mata calon mertua. Tentunya informasi ini adalah versi dari Pejuang Toga, apabila tidak berkenan jangan diributkan.
 
 Mendapat kepercayaan di mata calon mertua adalah suatu yang memang perlu dicapai untuk setiap insan calon menantu, terutama untuk kaum adam khususnya. Tidak munafik bahwasannya walaupun tidak mutlak, profesi sering kali menjadi tolok ukur si calon mertua untuk melihat si calon menantu yang dirasa pas menjadi pendamping hidup anaknya “Versi Calon Mertua, lho yaa….”. Dihimpun dari beberapa sumber dan informasi berikut adalah beberapa profesi idaman calon menantu di mata calon mertua. Bagi yang belum masuk kategori, mungkin kita sebutkan di lain kesempatan.
 
