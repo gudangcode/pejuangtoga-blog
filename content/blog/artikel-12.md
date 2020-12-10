@@ -1,8 +1,9 @@
 ---
-title : "Download Kumpulan Soal-soal SBMPTN 2016 Lengkap Naskah Asli"
-date  : 2019-01-17T00:24:55+07:00
-slug  : download-kumpulan-soal-soal-sbmptn-2016-lengkap-naskah-asli
+title : "Cara membedakan iPhone Asli dan iPhone Palsu"
+date  : 2019-03-07T03:19:12+07:00
+slug  : cara-membedakan-iphone-asli-dan-iphone-palsu
 draft : false
+description : ""
 
 tags:
     - tags
