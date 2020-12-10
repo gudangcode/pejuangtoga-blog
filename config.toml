@@ -1,0 +1,28 @@
+title = "Pejuang Toga"
+baseurl = "https://www.pejuangtoga.id/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "toga-theme"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "petanikode"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-1" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Tempatnya Mencari Informasi dan Inspirasi"
+
+# Biodata Author
+[author]
+    name = "Nyoman Adi"
+    homepage = "https://www.adiyudana.com"
+    bio = "Full Stack Developer"
+    image = "/img/adi-yudana.jpg"
+
+[permalinks]
+    blog = "/:slug/"
