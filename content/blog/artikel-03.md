@@ -1,8 +1,9 @@
 ---
-date  : 2020-12-11T00:24:44+07:00
 title : "Artikel 03"
+date  : 2020-12-11T00:24:44+07:00
 slug  : artikel-03
 draft : false
+description : ""
 
 tags:
     - tags

@@ -3,14 +3,14 @@ title: "Daftar Profesi Idaman di Mata Calon Mertua"
 date: 2018-08-03T23:56:27+07:00
 slug  : daftar-profesi-idaman-di-mata-calon-mertua
 draft : false
-featured_image : https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png
 
 tags:
-    - tags
+    - Inspirasi
 
 categories:
-    - category
+    - Inspirasi
 
+featured_image : https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png
 image: https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png
 thumbnail: https://1.bp.blogspot.com/-4t1_vtVrUoA/X9JX4gDvReI/AAAAAAAAABM/sE73N6GjajYkwJ5VCuCOAy9RDeOFaFBmQCNcBGAsYHQ/w640-h360/a-01.png
 ---
